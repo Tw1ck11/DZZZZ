@@ -1,0 +1,4 @@
+﻿  DZZZZ.cpp
+C:\Users\kuqep\OneDrive\Рабочий стол\DZZZZ\DZZZZ.cpp(146,59): warning C4566: character represented by universal-character-name '\u2B50' cannot be represented in the current code page (1252)
+C:\Users\kuqep\OneDrive\Рабочий стол\DZZZZ\DZZZZ.cpp(146,59): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+  DZZZZ.vcxproj -> C:\Users\kuqep\OneDrive\Рабочий стол\DZZZZ\x64\Debug\DZZZZ.exe
